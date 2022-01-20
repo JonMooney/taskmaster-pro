@@ -1,3 +1,11 @@
 ul.list-group {
   min-height: 130px;
 }
+
+.highlight{
+  border-bottom:1px dashed #CCC !important;
+  border-left:1px dashed #CCC !important;
+  border-top:1px dashed #CCC !important;
+  border-right:1px dashed #CCC !important;
+  
+}
